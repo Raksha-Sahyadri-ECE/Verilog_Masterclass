@@ -1,4 +1,4 @@
-# 8-Bit Microcontroller in Verilog
+# 8-Bit Microcontroller
 
 This project is a basic 8-bit microcontroller designed and simulated using Verilog and ModelSim.
 
